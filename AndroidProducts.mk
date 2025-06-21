@@ -11,4 +11,4 @@ PRODUCT_MAKEFILES := \
 COMMON_LUNCH_CHOICES := \
     omni_evergo-user \
     omni_evergo-userdebug \
-    omni_evergo-13-eng
+    omni_evergo-eng
